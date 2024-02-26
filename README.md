@@ -1,6 +1,6 @@
-## Simulation Indexer
+Eth denver hackathon project 
 
-Implements controversial EIP {INSERT_EIP_HERE}
+## Indexer
 
 
 ## Architecture
