@@ -1,0 +1,7 @@
+[workspace]
+members = [ "crates/database", "crates/transform", "crates/traversal", "eth-indexer"]
+
+[workspace.dependencies]
+database = { path = "crates/database" }
+transform = { path = "crates/transform" }
+traversal = { path = "crates/traversal" }
